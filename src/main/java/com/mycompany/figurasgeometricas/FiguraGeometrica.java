@@ -12,7 +12,8 @@ public class FiguraGeometrica {
         this.color = color;
     }
 
-    // Complejidad: O(1)    public double obtenerArea() {
+    // Complejidad: O(1)   
+ public double obtenerArea() {
         return 0;
     }
 
